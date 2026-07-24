@@ -1,6 +1,6 @@
 # Simple Feature Section
 
-This is a solution to the [Simple Feature Section challenge on DevChallenges.io](https://devchallenges.io/challenge/quality-feedback-cards). DevChallenges challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Simple Feature Section challenge on DevChallenges.io](https://devchallenges.io/). DevChallenges challenges help you improve your coding skills by building realistic projects.
 
 ![screenshot](public/Screenshot.png)
 
